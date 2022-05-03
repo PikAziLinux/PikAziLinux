@@ -1,8 +1,7 @@
-- 👋 Hi, I’m PikAzi
-- 👀 I’m interested in hardware , hacking and programming.
-- 🌱 I’m currently learning Linux
-
-<!---
-PikAziLinux/PikAziLinux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+pikazi@pop-os:~$ sudo apt update && apt upgrade
+[sudo] password for pikazi:
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+0 upgraded, 0 newly installed, 0 to remove and ♾️ not upgraded
+pikazi@pop-os:~$
